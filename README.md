@@ -34,7 +34,7 @@ currently_learning: ["Web3", "React", "NodeJS"]
 hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ```
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ui5m6mlidemn3c6bgkmhg26ayq&count=5">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ui5m6mlidemn3c6bgkmhg26ayq&count=2">
 </p>
 
 <h2  align="center">🛠️ Tech Stack</h2>
