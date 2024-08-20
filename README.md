@@ -1,4 +1,4 @@
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 <p align="center">
   <img src="https://socialify.git.ci/alla-guerriche/alla-guerriche/image?description=1&descriptionEditable=printf(%22Hello%2CWorld!%22)%3B&font=Jost&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
 </p>
