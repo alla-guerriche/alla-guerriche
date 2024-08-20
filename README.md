@@ -188,5 +188,5 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false"/>
 </p>
