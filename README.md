@@ -43,9 +43,6 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
   </div>
 
 
-<p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/solar.png" width="100%" alt="horizontal solar line">
-</p>
 
 ### :fire: My Stats :
 
