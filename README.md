@@ -14,11 +14,16 @@
 </a>
 <br>
 </p>
-
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=alla-guerriche&theme=onedark&column=-1" />
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alla-guerriche&label=Profile%20views&color=0e75b6&style=flat" alt="alla-guerriche" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alla-guerriche" alt="alla-guerriche" /></a> </p>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alla-guerriche&theme=github-dark-dimmed&custom_title=Alla_Guerriche%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ```yaml
 name: Alla Guerriche
