@@ -1,4 +1,21 @@
-![alla-guerriche](https://socialify.git.ci/alla-guerriche/alla-guerriche/image?description=1&descriptionEditable=printf(%22Hello%2CWorld!%22)%3B&font=Jost&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark)
+
+<p align="center">
+  <img src="https://socialify.git.ci/alla-guerriche/alla-guerriche/image?description=1&descriptionEditable=printf(%22Hello%2CWorld!%22)%3B&font=Jost&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
+</p>
+
+
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/ala-gerrich-764691180">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
+<br>
+</p>
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alla-guerriche&label=Profile%20views&color=0e75b6&style=flat" alt="alla-guerriche" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alla-guerriche" alt="alla-guerriche" /></a> </p>
