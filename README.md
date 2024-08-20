@@ -45,24 +45,13 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 
 ### :fire: My Stats :
+ <div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=alla-guerriche&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="alla's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alla-guerriche&theme=tokyonight&hide_border=true" alt="alla's Streak" height="165">
+  </p>
+</div>
 
-<div align="center">
- 
-  
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alla-guerriche&theme=dark&background=000000)](https://git.io/streak-stats)
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api?username=alla-guerriche&show_icons=true&theme=dark" alt="alla-guerriche" />
-<br />
-<br />
-  
-  
-  <br/>
-
-
-  </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
