@@ -178,8 +178,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 
 
-
-### :fire: My Stats :
+<h2  align="center">🔥 My Stats 🔥</h2>
  <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=alla-guerriche&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="alla's Stats" height="165">
