@@ -37,10 +37,145 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ui5m6mlidemn3c6bgkmhg26ayq&count=5">
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h2  align="center">🛠️ Tech Stack</h2>
 
-  </div>
+<h3 align="center">Web Development</h3>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="9" align="center" style="color: white;">Frontend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://nextjs.org/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
+        </a>
+        <br>Next.js
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://tailwindcss.com/" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
+        </a>
+        <br>Tailwind CSS
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://reactjs.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
+        </a>
+        <br>React
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
+        </a>
+        <br>HTML
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
+        </a>
+        <br>CSS
+      </td>
+     <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="50" height="50" alt="CSS"/>
+        </a>
+        <br>C++
+      </td>
+       <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="50" height="50" alt="CSS"/>
+        </a>
+        <br>Java
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" width="50" height="50" alt="CSS"/>
+        </a>
+        <br>Python
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Database</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Video Editing Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="50" height="50" alt="Adobe Photoshop"/><br>Adobe Photoshop
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="50" height="50" alt="Adobe Premiere Pro"/><br>Adobe Premiere Pro
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" width="50" height="50" alt="Adobe After Effects"/><br>Adobe After Effects
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 
 
 
