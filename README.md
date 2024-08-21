@@ -88,19 +88,19 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
       </td>
      <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="50" height="50" alt="CSS"/>
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" alt="CSS"/>
         </a>
         <br>C++
       </td>
        <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="50" height="50" alt="CSS"/>
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="CSS"/>
         </a>
         <br>Java
       </td>
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" width="50" height="50" alt="CSS"/>
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="CSS"/>
         </a>
         <br>Python
       </td>
