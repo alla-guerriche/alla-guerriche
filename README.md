@@ -39,7 +39,6 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 <h2  align="center">🛠️ Tech Stack</h2>
 
-<h3 align="center">Web Development</h3>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
